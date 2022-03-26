@@ -25,6 +25,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="http://g.recordit.co/TEC20x1k8M.gif" width=250><br>
+<img src="Uploading ezgif.com-gif-maker.gif…]()
+" width=250><br>
 
-<img src="http://g.recordit.co/TEC20x1k8M.gif" width="250" height="250"/>
+<img src=f" width="250" height="250"/>
