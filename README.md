@@ -25,7 +25,13 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="Uploading ezgif.com-gif-maker.gif…]()
-" width=250><br>
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/47457100/160229126-c1b46678-e08d-4f7f-b9eb-f063736e3b3f.gif)
+
+
+
+https://user-images.githubusercontent.com/47457100/160229231-4cfd3aca-507d-40ae-8331-ca959d9c4205.mp4
+
+
 
 <img src=f" width="250" height="250"/>
+![TEC20x1k8M](https://user-images.githubusercontent.com/47457100/160229179-aff05db3-a47f-4785-9412-e7eddb73c38b.gif)
