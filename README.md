@@ -25,12 +25,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/47457100/160229126-c1b46678-e08d-4f7f-b9eb-f063736e3b3f.gif)
-
-
-
-https://user-images.githubusercontent.com/47457100/160229231-4cfd3aca-507d-40ae-8331-ca959d9c4205.mp4
-
 
 
 <img src=f" width="250" height="250"/>
